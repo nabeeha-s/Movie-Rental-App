@@ -1,0 +1,6 @@
+Penelope, Eckart, 7000
+Kim, Gongja, 999
+Han, Sooyoung, 1864
+Secretive, Plotter, 1863
+Noah, Wynknight, 250
+Zack, Lee, 505
